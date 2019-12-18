@@ -53,7 +53,7 @@ function Login(props) {
 
                     <Grid item xs={11} className={classes.gridButton}>
                       <Typography className={classes.textButton}>
-                        Masuk Dengan Akun Google
+                        Login Dengan Akun Google
                       </Typography>
                     </Grid>
                   </Grid>
